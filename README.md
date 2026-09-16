@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: bethany.childress@outlook.com, roberts66wil@aol.com
-At: 2026-09-16 15:18:38
-Id: 1UiWMU45
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: fizzylifters@att.net, tschw24@me.com
+At: 2026-09-16 15:19:18
+Id: 4hxdtEPK
